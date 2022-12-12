@@ -102,9 +102,9 @@ body {
 
 /* Card Styling */
 .qr-component {
-  max-width: 327px;
+  max-width: 311px;
   display: grid;
-  margin: 1.5rem;
+  margin: 2rem;
   background-color: var(--clr-accent-100);
   padding: 1rem;
   border-radius: 1.2rem;
